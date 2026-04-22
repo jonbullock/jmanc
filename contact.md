@@ -10,6 +10,6 @@ You can get in touch with us in the following ways:
 
 ## The venue
 
-6th Floor, 1 Tony Wilson Pl, Manchester, M15 4FN
+No. 3, Circle Square, 3 Hawkshaw Street, Manchester M1 7BL
 
 {% include venue-location.html %}

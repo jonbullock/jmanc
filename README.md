@@ -17,7 +17,7 @@ NOTE: this change shouldn't be committed.
 Then execute the following commands from the root of the project:
 
 ```
-$ export JEKYLL_VERSION=3.8
+$ export JEKYLL_VERSION=4.2.2
 $ docker run --rm --volume="$PWD:/srv/jekyll" -p 3000:4000 -it jekyll/jekyll:$JEKYLL_VERSION jekyll serve --watch
 ```
 
