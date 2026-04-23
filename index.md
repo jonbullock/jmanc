@@ -7,6 +7,12 @@ JManc Unconference is a member of [The JUnconference Alliance](https://junconf.o
 
 The event is brought to you by the [Manchester Java Community](https://www.meetup.com/manchesteruk-java-community/) in association with [Autotrader](https://careers.autotrader.co.uk) and [Morson Edge](https://morson-edge.com/).
 
+**🎬 Highlights from last year's JManc:**
+
+<div class="video-embed">
+  <iframe src="https://www.youtube.com/embed/gD5p6lM4z2c" title="JManc highlights from a previous year" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ---
 
 ## What is an unconference?
